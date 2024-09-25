@@ -11,7 +11,7 @@ import ZayavkaForm from "./components/Zayavka/Zayavka";
 export default function Home() {
   return (
     <>
-      <Header />
+      <Header  />
       <Banner />
       <main>
         <section>
