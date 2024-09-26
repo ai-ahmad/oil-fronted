@@ -1,9 +1,10 @@
 import Image from "next/image";
+import Navigation from "./components/Navigations/Header";
 
 export default function Home() {
   return (
-    <div className="container">
-      
-    </div>
-  );
+    <>
+      <Navigation/>
+    </>
+  );  
 }
